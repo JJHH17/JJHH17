@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JJHH17
-- 👀 I’m interested in ... Machine Learning, Python, Automation.
-- 🌱 I’m currently learning ... Python 
+- 👀 I’m interested in ... Web Development, Machine Learning, Automation
+- 🌱 I’m currently learning ... JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ... He/Him
