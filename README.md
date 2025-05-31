@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JJHH17
 - 👀 I’m interested in Web Development, Machine Learning, Automation, iOS Development 
-- 🌱 I’m currently learning JavaScript, Swift
+- 🌱 I’m currently learning JavaScript, Swift, Python
 - 💞️ I’m looking to collaborate on Web Applications, Mobile Applications
 - 😄 Pronouns: He/Him
 
