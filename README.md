@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JJHH17
-- 👀 I’m interested in Web Development, Machine Learning, Automation 
-- 🌱 I’m currently learning C#, Java, JavaScript, Python
-- 💞️ I’m looking to collaborate on Web Applications, Mobile Applications
+- 👀 I’m interested in Web Development, Software Development, Automation
+- 🌱 I’m currently learning C#, Java, Python
+- 💞️ I’m looking to collaborate on Web Applications, Desktop Applications
 - 😄 Pronouns: He/Him
 
 <!---
